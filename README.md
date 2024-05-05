@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=22&duration=4000&pause=1000&random=false&width=435&lines=Hello+Folks;I'm+Vijaya+Adamane" />
 </h1>
@@ -14,7 +12,7 @@
 
 💬 Ask me about *React, CSS ... or anything [here](https://www.linkedin.com/in/vijayaadamane/)*
 
-⚡ Ready to work  *Check my Resume [here](https://drive.google.com/file/d/1QZ8obust1QdiZbCa6fnLN8I2kawKwQFp/view?usp=drive_link)*
+⚡ Ready to work  ----> *Check my Resume [here](https://drive.google.com/file/d/1QZ8obust1QdiZbCa6fnLN8I2kawKwQFp/view?usp=drive_link)*
 
  </div>
  
