@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=22&duration=4000&pause=1000&random=false&width=435&lines=Hello+Folks;I'm+Vijaya+Adamane" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=26&duration=2500&pause=800&random=false&width=435&lines=Hello+Folks;I'm+Vijaya+Adamane" />
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
