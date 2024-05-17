@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=26&duration=2500&pause=800&random=false&width=435&lines=Hello+Folks;I'm+Vijaya+Adamane" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate front-end developer from India</h3>
 
 <br/>
 
@@ -27,15 +27,25 @@
 
  <hr/>
  
-<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<h2 align="center">⚒ Programming Languages ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,materialui,redux,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql,flask,figma,opencv,pandas" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,c" /><br>
 </div>
-
+ <hr/>
+<h2 align="center">⚒ Frontend Techs ⚒</h2>
 <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,materialui,redux" /><br>
+</div>
 <hr/>
+<h2 align="center">⚒ Tools ⚒</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,opencv,flask,eclipse" /><br>
+</div>
+<hr/>
+
 
 <!--   <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
