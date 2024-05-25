@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🌱 I’m currently learning *MERN stack*
+ 🌱 I’m currently learning *Java Full Stack Development*
 
-💬 Ask me about *React, CSS ... or anything [here](https://www.linkedin.com/in/vijayaadamane/)*
+💬 Ask me about *React Js, Java, ... or anything [here](https://www.linkedin.com/in/vijayaadamane/)*
 
 ⚡ Ready to work  ----> *Check my Resume [here](https://drive.google.com/file/d/1QZ8obust1QdiZbCa6fnLN8I2kawKwQFp/view?usp=drive_link)*
 
